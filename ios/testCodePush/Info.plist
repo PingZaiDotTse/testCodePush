@@ -4,6 +4,8 @@
 <dict>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
+	<key>CodePushDeploymentKey</key>
+	<string>xU7vP3ALVvdBZJbBFCNL_0pvB0o1Bu3q6D63E</string>
 	<key>CFBundleDisplayName</key>
 	<string>testCodePush</string>
 	<key>CFBundleExecutable</key>
